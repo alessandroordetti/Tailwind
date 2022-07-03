@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-image: url('https://i.pinimg.com/originals/f0/46/b4/f046b4f182fa661d49908e3af54f173b.jpg');
+    background-repeat: no-repeat;
+
+}
